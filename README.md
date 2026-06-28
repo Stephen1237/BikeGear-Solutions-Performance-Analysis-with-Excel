@@ -1,8 +1,8 @@
 # BikeGear-Solutions-Performance-Analysis-with-Excel
 Developed an interactive Microsoft Excel sales dashboard for BikeGear Solutions to consolidate cross-functional retail data into centralized business intelligence. The tool provides real-time, actionable insights for executives to monitor profitability, product lifecycles, and regional sales performance.
+
 ## Project Introduction
-The purpose of this project is to perform a deep-dive, data-driven sales analysis for BikeGear Solutions using historical sales data collected over a 6-year period to asses the company's financial health and market position in 2016. As a retail company operating internationally, BikeGear Solutions requires precise market intelligence to optimize its commercial footprint.
-This project uses comprehensive data analysis techniques to uncover actionable insights into customer demographics, regional performance, seasonality, and product profitability. The primary objectives are to enhance customer targeting, optimize revenue streams, and improve operational efficiency across supply chain networks.
+The purpose of this project is to perform a deep-dive, data-driven sales analysis for BikeGear Solutions using historical sales data collected over a 6-year period to asses the company's financial health and market position in 2016. As a retail company operating internationally, BikeGear Solutions requires precise market intelligence to optimize its commercial footprint.This project uses comprehensive data analysis techniques to uncover actionable insights into customer demographics, regional performance, seasonality, and product profitability. The primary objectives are to enhance customer targeting, optimize revenue streams, and improve operational efficiency across supply chain networks.
 ------------------------------
 ## Problem Statement
 Leadership at BikeGear Solutions lacks localized data to properly refine regional marketing strategies, manage inventory levels, and forecast future consumer demand. This gaps in business intelligence has led to:
@@ -13,9 +13,9 @@ Leadership at BikeGear Solutions lacks localized data to properly refine regiona
 ------------------------------
 ## Project Overview
 The analysis was performed using advanced quantitative modeling tools to evaluate 111.9K total transactions spanning a six-year horizon. The scope encompasses tracking financial performance metrics across multiple geographical markets, customer age brackets, product categories, and sales quarters.
+
 ## Key Performance Indicators (KPIs)
 The high-level macro metrics extracted from the data architecture include:
-
 * Total Quantity Ordered: 1.3 Million units
 * Total Gross Revenue: $94.5 Million
 * Total Operating Cost: $52.7 Million
@@ -76,8 +76,7 @@ Based on the analytical findings, the following actions are recommended to optim
 
 ------------------------------
 ## Conclusions
-In conclusion, BikeGear Solutions maintains a robust retail foundation with $41.8M in net profit generated over the analyzed timeline. However, long-term commercial sustainability relies on fixing clear core operational exposures.
-By mitigating the business's current dependence on two countries (US and Australia) and one major product line (Bikes), the company can build a more balanced business model. Implementing structured, data-backed inventory adjustments ahead of known Q2 and Q4 seasonal demand surges will help prevent stock issues and optimize revenue.
+In conclusion, BikeGear Solutions maintains a robust retail foundation with $41.8M in net profit generated over the analyzed timeline. However, long-term commercial sustainability relies on fixing clear core operational exposures. By mitigating the business's current dependence on two countries (US and Australia) and one major product line (Bikes), the company can build a more balanced business model. Implementing structured, data-backed inventory adjustments ahead of known Q2 and Q4 seasonal demand surges will help prevent stock issues and optimize revenue.
 ------------------------------
 
 
