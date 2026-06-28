@@ -1,6 +1,5 @@
 # BikeGear-Solutions-Performance-Analysis-with-Excel
 Developed an interactive Microsoft Excel sales dashboard for BikeGear Solutions to consolidate cross-functional retail data into centralized business intelligence. The tool provides real-time, actionable insights for executives to monitor profitability, product lifecycles, and regional sales performance.
-
 ## Project Introduction
 The purpose of this project is to perform a deep-dive, data-driven sales analysis for BikeGear Solutions using historical sales data collected over a 6-year period to asses the company's financial health and market position in 2016. As a retail company operating internationally, BikeGear Solutions requires precise market intelligence to optimize its commercial footprint.This project uses comprehensive data analysis techniques to uncover actionable insights into customer demographics, regional performance, seasonality, and product profitability. The primary objectives are to enhance customer targeting, optimize revenue streams, and improve operational efficiency across supply chain networks.
 ------------------------------
