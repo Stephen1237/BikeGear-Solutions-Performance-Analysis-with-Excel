@@ -1,5 +1,5 @@
 # BikeGear-Solutions-Performance-Analysis-with-Excel
-In this report, I developed an interactive Microsoft Excel sales dashboard for BikeGear Solutions to consolidate cross-functional retail data into centralized business intelligence. The tool provides real-time, actionable insights for executives to monitor profitability, product lifecycles, and regional sales performance.
+In this project, I developed an interactive Microsoft Excel sales dashboard for BikeGear Solutions to consolidate cross-functional retail data into centralized business intelligence. The tool provides real-time, actionable insights for executives to monitor profitability, product lifecycles, and regional sales performance.
 
 # BikeGear Solutions Sales Performance Analysis
 ### Driving Sales Optimization Through Data-Driven Business Intelligence
